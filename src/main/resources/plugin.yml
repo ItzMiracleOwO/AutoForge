@@ -1,0 +1,4 @@
+name: AutoForge
+version: '${project.version}'
+main: com.miyuki.autoforge.AutoForge
+api-version: 1.19
